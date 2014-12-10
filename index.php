@@ -10,8 +10,14 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-		<?php
+		<?php	
 		
+		echo "hello Git 2014";
+		echo "hello Git 2014";
+		echo "hello Git 2014";
+		echo "hello Git 2014";
+		echo "hello Git 2014";
+		echo "hello Git 2014";
 		echo "hello Git 2014";
 		// put your code here
 		?>
